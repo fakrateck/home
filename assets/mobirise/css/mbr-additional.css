@@ -1415,12 +1415,12 @@ body {
 }
 .cid-rqDmUsacME .navbar {
   padding: .5rem 0;
-  background: #054a91;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-rqDmUsacME .navbar-dropdown.bg-color.transparent.opened {
-  background: #054a91;
+  background: #2e2e2e;
 }
 .cid-rqDmUsacME a {
   font-style: normal;
@@ -1511,7 +1511,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rqDmUsacME .dropdown .dropdown-menu {
-  background: #054a91;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1648,10 +1648,6 @@ body {
 .cid-rqDmUsacME .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rqDmUsacME .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rqDmUsacME .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rqDmUsacME .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rqDmUsacME .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1752,10 +1748,6 @@ body {
   .cid-rqDmUsacME .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rqDmUsacME .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rqDmUsacME .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rqDmUsacME .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rqDmUsacME .navbar-collapse.collapsing .navbar-buttons,
   .cid-rqDmUsacME .navbar-collapse.show .navbar-buttons {
@@ -2360,12 +2352,12 @@ body {
 }
 .cid-rqDmUsacME .navbar {
   padding: .5rem 0;
-  background: #054a91;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-rqDmUsacME .navbar-dropdown.bg-color.transparent.opened {
-  background: #054a91;
+  background: #2e2e2e;
 }
 .cid-rqDmUsacME a {
   font-style: normal;
@@ -2456,7 +2448,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rqDmUsacME .dropdown .dropdown-menu {
-  background: #054a91;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2886,12 +2878,12 @@ body {
 }
 .cid-rqDmUsacME .navbar {
   padding: .5rem 0;
-  background: #054a91;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-rqDmUsacME .navbar-dropdown.bg-color.transparent.opened {
-  background: #054a91;
+  background: #2e2e2e;
 }
 .cid-rqDmUsacME a {
   font-style: normal;
@@ -2982,7 +2974,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rqDmUsacME .dropdown .dropdown-menu {
-  background: #054a91;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
