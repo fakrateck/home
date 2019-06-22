@@ -1241,7 +1241,7 @@
             },
             ".form-text": {
               "color": "#ffffff",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".content": {
               "@media (max-width: 767px)": {
@@ -1335,10 +1335,10 @@
             },
             ".foot-title": {
               "color": "#f17300",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".mbr-links-column": {
-              "text-align": "right",
+              "text-align": "center",
               "color": "#ffffff"
             },
             ".foot-logo": {
