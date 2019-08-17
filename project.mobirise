@@ -520,7 +520,7 @@
               "color": "#054a91"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#2e2e2e"
+              "color": "#f17300"
             }
           },
           "_name": "header4",
