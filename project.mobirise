@@ -514,10 +514,10 @@
               }
             },
             "H1": {
-              "color": "#054a91"
+              "color": "#2e2e2e"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#f17300"
+              "color": "#2e2e2e"
             }
           },
           "_name": "header4",
